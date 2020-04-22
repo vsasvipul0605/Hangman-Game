@@ -11,5 +11,5 @@ Start guessing letter by letter to figure out the word in a fixed interval of ch
 - Display word in UI with correct letters
 - Display wrong letters
 - Show notification when select a letter twice
-- Show popup on win or lose
+- Show popup of win or lose on guessing correct word
 - Play again button to reset game
